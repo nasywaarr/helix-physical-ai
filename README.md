@@ -2,8 +2,8 @@
 
 > Analyzing Figure AI's **Helix** Vision-Language-Action model, and building a humanoid robot asset in Blender → USD, ready for NVIDIA Omniverse simulation.
 
-**Course:** Devices and Circuits for AI · Università degli Studi di Messina
-**Author:** Nasywa Azzahra Rizqi Ramadhani (574106)
+**Course:** Devices and Circuits for AI · Università degli Studi di Messina  
+**Author:** Nasywa Azzahra Rizqi Ramadhani (574106)  
 **Supervisor:** Prof. Giovanni Finocchio
 
 ---
@@ -38,6 +38,9 @@ Its key idea is a **dual-system architecture** inspired by human "System 1 / Sys
 
 ## The 3D Asset Pipeline
 
+![Humanoid robot modeled in Blender](assets/helix%20blender.png)
+*The humanoid robot modeled in Blender, in T-pose with a Catmull-Clark subdivision modifier applied.*
+
 | Stage | Tool | Output |
 |-------|------|--------|
 | Modeling | Blender (Catmull-Clark subdivision) | Humanoid mesh |
@@ -57,10 +60,10 @@ Its key idea is a **dual-system architecture** inspired by human "System 1 / Sys
 ├── README.md
 ├── LICENSE
 ├── presentation/
-│   └── Physical_AI_Presentation.pdf
+│   └── Physical AI Presentation.pdf
 └── assets/
     ├── helix.usdc            # USD export, Omniverse-ready
-    └── helix_blender.png     # Blender viewport reference
+    └── helix blender.png     # Blender viewport reference
 ```
 
 ---
@@ -68,5 +71,3 @@ Its key idea is a **dual-system architecture** inspired by human "System 1 / Sys
 ## Tools & Tech
 
 `Blender` · `Universal Scene Description (USD)` · `NVIDIA Omniverse` · Figure AI **Helix** (VLA)
-
----
