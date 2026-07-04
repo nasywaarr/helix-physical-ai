@@ -39,6 +39,7 @@ Its key idea is a **dual-system architecture** inspired by human "System 1 / Sys
 ## The 3D Asset Pipeline
 
 ![Humanoid robot modeled in Blender](assets/helix%20blender.png)
+
 *The humanoid robot modeled in Blender, in T-pose with a Catmull-Clark subdivision modifier applied.*
 
 | Stage | Tool | Output |
